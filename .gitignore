@@ -1,0 +1,10 @@
+# Third-party papers are fetched by the script, never committed (copyright, and the merged
+# PDF is far over GitHub's 100 MB file limit).
+*.pdf
+*.part
+papers/manual/
+.venv/
+__pycache__/
+*.py[cod]
+*.log
+.DS_Store

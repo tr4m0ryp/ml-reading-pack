@@ -1,0 +1,40 @@
+# Papers without a verified legal open-access PDF.
+# Download each through your university library and save it as
+#   papers/manual/NNN_<anything>.pdf   (NNN = the number below)
+# then re-run: python build_reading_pack.py
+
+001  Dempster, Laird, Rubin (1977). Maximum Likelihood from Incomplete Data via the EM Algorithm
+     DOI:  10.1111/j.2517-6161.1977.tb01600.x
+     Link: https://doi.org/10.1111/j.2517-6161.1977.tb01600.x
+
+003  Tibshirani (1996). Regression Shrinkage and Selection via the Lasso
+     DOI:  10.1111/j.2517-6161.1996.tb02080.x
+     Link: https://doi.org/10.1111/j.2517-6161.1996.tb02080.x
+
+004  Zou & Hastie (2005). Regularization and Variable Selection via the Elastic Net
+     DOI:  10.1111/j.1467-9868.2005.00503.x
+     Link: https://doi.org/10.1111/j.1467-9868.2005.00503.x
+
+007  Freund & Schapire (1997). A Decision-Theoretic Generalization of On-Line Learning and an Application to Boosting
+     DOI:  10.1006/jcss.1997.1504
+     Link: https://doi.org/10.1006/jcss.1997.1504
+
+009  Friedman (2001). Greedy Function Approximation: A Gradient Boosting Machine
+     DOI:  10.1214/aos/1013203451
+     Link: https://doi.org/10.1214/aos/1013203451
+
+020  Rumelhart, Hinton, Williams (1986). Learning representations by back-propagating errors
+     DOI:  10.1038/323533a0
+     Link: https://doi.org/10.1038/323533a0
+
+028  Deng et al. (2009). ImageNet: A Large-Scale Hierarchical Image Database
+     DOI:  10.1109/CVPR.2009.5206848
+     Link: https://doi.org/10.1109/CVPR.2009.5206848
+
+087  Mnih et al. (2015). Human-level control through deep reinforcement learning
+     DOI:  10.1038/nature14236
+     Link: https://doi.org/10.1038/nature14236
+
+088  Silver et al. (2016). Mastering the game of Go with deep neural networks and tree search
+     DOI:  10.1038/nature16961
+     Link: https://doi.org/10.1038/nature16961

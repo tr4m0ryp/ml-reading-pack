@@ -1,0 +1,40 @@
+ml-reading-pack
+Builds a bookmarked study PDF of 100 machine-learning papers from legal open-access sources.
+
+Copyright (c) 2026 Keygraph, Inc.
+
+Required Notice: Copyright (c) 2026 Keygraph, Inc.
+Required Notice: ml-reading-pack — https://github.com/tr4m0ryp/ml-reading-pack
+
+Licensed under the PolyForm Noncommercial License 1.0.0 (see LICENSE). This is a
+source-available licence, not an OSI open-source licence.
+
+ATTRIBUTION
+
+Anyone who receives any part of this software must also receive a copy of the
+licence terms, or the URL for them, together with every plain-text line above
+that begins with "Required Notice:". Work that uses or builds on this software
+must credit "ml-reading-pack by Keygraph, Inc."
+
+PERMITTED USE
+
+Any noncommercial purpose is permitted. Selling this software, bundling it into a
+paid product, or operating it as a paid or hosted service requires a commercial
+licence.
+
+COMMERCIAL LICENSING
+
+TODO: add a commercial-licensing contact address before this repository is made
+public. Do not substitute a personal email.
+
+TRADEMARKS
+
+"Keygraph" and the Keygraph logo are trademarks of Keygraph, Inc. The licence
+grants no trademark rights, and no permission is given to use the name to
+endorse or promote derived work.
+
+NO WARRANTY
+
+As far as the law allows, this software comes as is, without any warranty or
+condition, and the licensor is not liable for any damages arising out of the
+licence terms or the use or nature of the software.
